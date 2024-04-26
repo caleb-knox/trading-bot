@@ -1,3 +1,4 @@
+# API keys have been changed for demonstration
 API_KEY = "PKKDOP37NUG6VDUEUAF2"
 SECRET_KEY = "EMrBxVS2QcvqUJv6IxqJrNggKfIQnFRxim2HWxa9"
 
