@@ -1,3 +1,4 @@
+# API keys have been changed for demonstration
 import config, requests, json # type: ignore
 from datetime import datetime, timedelta # type: ignore
 from alpaca.trading.client import TradingClient # type: ignore
